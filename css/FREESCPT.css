@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'FREESCPT';
+    src: url('/markup/fonts/FREESCPT.eot');
+    src: url('/markup/fonts/FREESCPT.eot') format('embedded-opentype'),
+         url('/markup/fonts/FREESCPT.woff2') format('woff2'),
+         url('/markup/fonts/FREESCPT.woff') format('woff'),
+         url('/markup/fonts/FREESCPT.ttf') format('truetype'),
+         url('/markup/fonts/FREESCPT.svg#FREESCPT') format('svg');
+}
